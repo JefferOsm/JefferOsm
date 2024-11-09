@@ -10,7 +10,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- Outside tech, 🎮 I playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="jeffermartinez2202@gmail.com">jeffermartinez2202@gmail.com</a>
 
 ## My Skills Include
